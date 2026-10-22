@@ -1,0 +1,11 @@
+{"ts":"2026-09-25T19:48:08.965Z","cmd":"goto","args":"https://www.cicsaingenieria.com/","origin":"https://www.cicsaingenieria.com/","durationMs":5752,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:48:09.212Z","cmd":"text","args":"","origin":"https://www.cicsaingenieria.com/","durationMs":10,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:48:15.541Z","cmd":"links","args":"","origin":"https://www.cicsaingenieria.com/","durationMs":14,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:48:15.765Z","cmd":"media","args":"--images","origin":"https://www.cicsaingenieria.com/","durationMs":50,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:48:23.744Z","cmd":"screenshot","args":"C:/Users/PC-1/Desktop/Cicsa 2/reference/original-home.png","origin":"https://www.cicsaingenieria.com/","durationMs":1711,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:48:33.986Z","cmd":"media","args":"--images","origin":"https://www.cicsaingenieria.com/","durationMs":131,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:48:39.527Z","cmd":"media","args":"--images","origin":"https://www.cicsaingenieria.com/","durationMs":28,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:48:47.681Z","cmd":"media","args":"--images","origin":"https://www.cicsaingenieria.com/","durationMs":30,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:48:54.760Z","cmd":"html","args":"","origin":"https://www.cicsaingenieria.com/","durationMs":19,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:58:40.565Z","cmd":"goto","args":"https://pixabay.com/videos/search/industrial%20engineering/","origin":"https://pixabay.com/videos/search/industrial%20engineering/?__cf_chl_rt_tk=EMW7Qei2o7yfek6qZZFgjxRcjjtzG.dsnvVmAhRBbL0-1790366314-1.0.1.1-8tzjoOOGgqnmRx17LDnx9AkIpVX.3SCjLyWMNmugvHQ","durationMs":2865,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-09-25T19:58:50.715Z","cmd":"text","args":"","origin":"https://pixabay.com/videos/search/industrial%20engineering/","durationMs":3,"status":"ok","hasCookies":false,"mode":"launched"}

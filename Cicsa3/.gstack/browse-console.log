@@ -1,0 +1,3 @@
+[2026-09-25T21:42:08.867Z] [error] Permissions policy violation: compute-pressure is not allowed in this document.
+[2026-09-25T21:42:09.156Z] [warning] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127
+[2026-09-25T21:42:09.168Z] [warning] No available adapters.
